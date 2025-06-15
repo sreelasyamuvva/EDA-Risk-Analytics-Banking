@@ -21,14 +21,8 @@ To identify key factors that influence loan approval and default, enabling finan
 - Applied data cleaning, null value treatment, and feature categorization.
 - Visualized patterns using histograms, box plots, correlation heatmaps, and bar charts.
 
-## 📁 Folder Structure
-EDA-Risk-Analytics-Banking/
-│
-├── data/ # Dataset files
-├── notebooks/ # Jupyter notebooks
-├── plots/ # Saved graphs and plots
-├── README.md # Project overview
-└── requirements.txt # Optional (for dependencies)
+## Dataset
+- You can find the dataset link in 'data' folder
 
 
 ## 📌 Status
